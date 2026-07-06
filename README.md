@@ -1,2 +1,28 @@
-# 9cf79049-corporate-training-knowledge-b
-corporate training professionals waste hours on spending hours building a system before you can actually use it. This fixes that.  Pre-built databases, views, and formula fields — ready to duplicate and use. Mobile-optimized for Notion iOS and Android — works everywhere you work.  ## What's Included  - Corporate Training Knowledge Base And Wiki — f
+# Corporate Training Knowledge Base and Wiki Notion Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/8x23cv4eP3o8g88bzScZG0O)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/8x23cv4eP3o8g88bzScZG0O)
+
